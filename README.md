@@ -17,7 +17,7 @@ iGoogle provides you with the images,videos and other relevant links of the cont
 ```
 REACT_APP_API_KEY = <API key>
 ```
-- run ```npm i && npm start``` to start the development server
+- Run ```npm i && npm start``` to start the development server
 
 ## Team Members
 - Devansh Sharma
