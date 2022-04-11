@@ -3,16 +3,11 @@
 ![iGoogle](https://i.ibb.co/yQdYhtq/image.png)
 
 ## Introduction
-//
-//
-//
-//
 
 Setup:
 - Login and copy the key on RapidAPI
 - Create a .env file in root directory.
 - Paste
-- 
 ```
 REACT_APP_API_KEY = <API key>
 ```
@@ -21,6 +16,3 @@ REACT_APP_API_KEY = <API key>
 ## Team Members
 - Devansh Sharma
 - Sanskar Kejriwal
-  //
-  //
-  //
