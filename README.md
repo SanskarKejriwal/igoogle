@@ -3,8 +3,9 @@
 ![iGoogle](https://i.ibb.co/yQdYhtq/image.png)
 
 ## Introduction
+This is a ReactJS project..................
 
-Setup:
+## Setup:
 - Login and copy the key on RapidAPI
 - Create a .env file in root directory.
 - Paste the key in .env file
