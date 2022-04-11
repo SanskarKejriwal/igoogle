@@ -7,7 +7,7 @@
 Setup:
 - Login and copy the key on RapidAPI
 - Create a .env file in root directory.
-- Paste
+- Paste the key in .env file
 ```
 REACT_APP_API_KEY = <API key>
 ```
