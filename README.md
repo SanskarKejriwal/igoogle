@@ -1,6 +1,6 @@
 # iGoogle - A Search Engine
 
-![iGoogle](https://i.imgur.com/mwXmABk.png)
+![iGoogle](https://i.imgur.com/mwXmABk.png | width=200)
 ![iGoogle](https://i.imgur.com/A6Tgvw9.png)
 ![iGoogle](https://i.imgur.com/GzUuIJb.png)
 
