@@ -1,8 +1,8 @@
 # iGoogle - A Search Engine
 
-<img src="https://i.imgur.com/mwXmABk.png" width="250px" height="auto" />
-<img src="https://i.imgur.com/A6Tgvw9.png" width="250px" height="auto" />
-<img src="https://i.imgur.com/GzUuIJb.png" width="100px" height="auto" />
+<img src="https://i.imgur.com/mwXmABk.png" width="500px" height="auto" />
+<img src="https://i.imgur.com/A6Tgvw9.png" width="500px" height="auto" />
+<img src="https://i.imgur.com/GzUuIJb.png" width="300px" height="auto" />
 
 ## Introduction
 A Search Engine which we built using **ReactJS** which makes a call on [**Google Search API**](https://rapidapi.com/apigeek/api/google-search3/) to fetch the data and show the results. We have used Tailwind CSS for styling.
