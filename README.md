@@ -1,7 +1,7 @@
 # iGoogle - A Search Engine
 
-<img src="https://i.imgur.com/mwXmABk.png" width="500px" height="auto" />
-<img src="https://i.imgur.com/A6Tgvw9.png" width="500px" height="auto" />
+<img src="https://i.imgur.com/mwXmABk.png" width="800px" height="auto" />
+<img src="https://i.imgur.com/A6Tgvw9.png" width="800px" height="auto" />
 <img src="https://i.imgur.com/GzUuIJb.png" width="300px" height="auto" />
 
 ## Introduction
