@@ -1,11 +1,11 @@
 # iGoogle - A Search Engine
 
-![iGoogle](https://imgur.com/mwXmABk)
-![iGoogle](https://imgur.com/A6Tgvw9)
-![iGoogle](https://imgur.com/GzUuIJb)
+![iGoogle](https://i.imgur.com/mwXmABk.png)
+![iGoogle](https://i.imgur.com/A6Tgvw9.png)
+![iGoogle](https://i.imgur.com/GzUuIJb.png)
 
 ## Introduction
-A Search Engine which we built using **ReactJS** which makes a call on **Google Search API**(https://rapidapi.com/apigeek/api/google-search3/) to fetch the data and show the results. We have used Tailwind CSS for styling.
+A Search Engine which we built using **ReactJS** which makes a call on [**Google Search API**](https://rapidapi.com/apigeek/api/google-search3/) to fetch the data and show the results. We have used Tailwind CSS for styling.
 
 ## Features
 iGoogle provides you with the images,videos and other relevant links of the content searched.User can switch between the dark mode and light mode according to their comfort. It is also mobile responsive.
