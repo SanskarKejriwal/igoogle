@@ -4,6 +4,10 @@
 <img src="https://i.imgur.com/A6Tgvw9.png" width="800px" height="auto" />
 <img src="https://i.imgur.com/GzUuIJb.png" width="300px" height="auto" />
 
+## Team Members
+- Devansh Sharma
+- Sanskar Kejriwal
+
 ## Introduction
 A Search Engine which we built using **ReactJS** which makes a call on [**Google Search API**](https://rapidapi.com/apigeek/api/google-search3/) to fetch the data and show the results. We have used Tailwind CSS for styling.
 
@@ -19,6 +23,4 @@ REACT_APP_API_KEY = <API key>
 ```
 - Run ```npm i && npm start``` to start the development server
 
-## Team Members
-- Devansh Sharma
-- Sanskar Kejriwal
+
